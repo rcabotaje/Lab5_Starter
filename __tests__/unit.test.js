@@ -73,4 +73,8 @@ test('is date 1', () => {
 });
 test('is date 1', () => {
   expect(isHexColor("#moment")).toBe(false);
+
 });
+
+});
+
